@@ -1,0 +1,20 @@
+{
+  "name": "node-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "co": "^4.6.0",
+    "co-fs": "^1.2.0",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "sails": "^0.12.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Anaedu",
+  "license": "ISC"
+}
